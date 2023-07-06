@@ -448,6 +448,7 @@ letter-spacing: 5.81px;
 }
 
 .footer-submit input {
+  padding-left: 25px;
   border: none;
   width: 325px;
   height: 60px;
